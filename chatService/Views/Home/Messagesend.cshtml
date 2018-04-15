@@ -1,0 +1,33 @@
+﻿@if (User.Identity.IsAuthenticated)
+{<form name="ChatServiceForm" novalidate class="frmClassss">
+            <div id="chatContainer">
+                <div class="mszContainers" >
+                    <div id="messageBoxRight">
+                        <ul id="ngRepeatUl" ng-repeat="m in chatMessage">
+                            <li>
+                                <div ng-show="{{m.str}}">
+                                    <strong>{{m.Name}}</strong> &raquo;&raquo; {{m.Msg}}
+                                </div>
+                                <div ng-show="{{m.img}}">
+                                    {{m.Name}} &raquo;&raquo;  <img src="http://localhost:2642{{m.Msg}}" alt="Image" />
+                                </div>
+                                <div ng-show="{{m.others}}">
+                                    {{m.Name}} &raquo;&raquo; <a href="http://localhost:2642{{m.Msg}}" target="_blank">Show Me</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div> <br />
+                    <textarea class="txt1" required id="msg" name="messag" ng-model="messag" placeholder="Message....."></textarea>
+                    <input type="button" ng-click="sendchat()" id="send" value="Send" />
+                    <input type="file" id="file" name="file"
+                           onchange="angular.element(this).scope().setFile(this)" accept="image/*" class="btn btn-primary" />
+                </div>
+                <div id="ProfileContainer">
+                    <div id="profileSpace">
+                        <img src="~/app send GIF-source.gif" />
+                    </div>
+                </div>
+            </div>
+    </form>
+    <div></div>
+}

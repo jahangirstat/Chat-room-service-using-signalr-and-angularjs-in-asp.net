@@ -1,0 +1,31 @@
+﻿@model IEnumerable<chatService.Models.GroupInfo>
+
+@{
+    ViewBag.Title = "Group Details List";
+}
+<div style="background-color: #277571;height: 300px;color: #092b29;font-size: 14pt;text-align: center;margin:0 auto;">
+    <table class="table">
+        <tr>
+            <th>
+                
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GroupName)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GroupName)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id })   &raquo;
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

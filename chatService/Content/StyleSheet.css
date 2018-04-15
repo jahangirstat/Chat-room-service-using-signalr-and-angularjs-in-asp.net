@@ -1,0 +1,166 @@
+﻿
+input#txt {
+    height: 30px;
+    width: 250px;
+    border: 1px solid #85a615;
+    border-radius: 4px;
+    background-color: #e5eadb;
+    font-weight: 100;
+    padding-left: 5px;
+    font-size: 18px;
+    font-family: Times New Roman Times serif;
+}
+
+#sendMessage {
+    display: none;
+}
+
+input#file {
+    width: 280px;
+    margin-top: 5px;
+}
+
+#send {
+    padding: 5px 20px;
+    width: 113px;
+    height: 44px;
+    border: navajowhite;
+    border-radius: 4px;
+    background-color: #8d9bc5;
+    font-size: 15pt;
+    float: right;
+    margin-right: 30px;
+}
+
+#chatBoxContainer {
+    width: 930px;
+    background-color: #f5e2e2;
+    padding: 10px 15px;
+    position: relative;
+    margin-top: 5px;
+    display: none;
+    height: 350px;
+    text-align: center;
+}
+
+div#right {
+    background-color: #30596f;
+    float: left;
+    padding: 20px 10px;
+    width: 100%;
+    border: 2px solid #ACE082;
+    margin-left: 2px;
+    max-height: 640px;
+}
+
+.txt1 {
+    width: 377px;
+    height: 46px;
+    border: 2px solid #1d80b5;
+    border-radius: 5px;
+}
+
+div#left {
+    float: left;
+    margin-left: 10px;
+    width: 15%;
+    margin-top: 10px;
+    padding: 5px 10px;
+}
+
+ul#msg {
+    list-style: none;
+    margin: 0;
+    padding: 2px 4px;
+    float: left;
+    display: block;
+    width: 515px;
+    height: 320px;
+    text-align: left;
+}
+
+    ul#msg li {
+        text-align: justify;
+        padding: 5px 10px;
+    }
+
+div#userInput.labelClasss {
+    width: 170px;
+    background-color: red;
+    float: left;
+    padding: 5px 10px;
+    border: 1px solid;
+    margin-top: 5px;
+}
+
+.labelClass {
+    font-style: italic;
+    font-weight: 500;
+}
+
+input#btnConnectUser, #btncancel {
+    width: 95px;
+    height: 34px;
+    font-size: 10pt;
+    border: navajowhite;
+    border-radius: 4px;
+    background-color: #7f9cf3;
+    margin-top: 8px;
+}
+
+div#userInput {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #d7ddf0;
+    margin-top: 0;
+    height: 125px;
+    padding-top: 10px;
+    border-top: 1px solid #ACDFC9;
+    text-align: center;
+    border-bottom: 1px solid #1F3941;
+}
+
+#profileSpace {
+    height: 365px;
+    background-color: #395b6d;
+    width: 240px;
+    padding: 4px 6px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.frmClassss {
+    background: #264658;
+    height: 600px;
+}
+
+.mszContainers {
+    float: left;
+    width: 40%;
+    background-color: #395b6d;
+    margin-left: 95px;
+    border: 2px solid #387494;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-top: 10px;
+}
+
+#messageBoxRight {
+    overflow: auto;
+    height: 300px;
+}
+
+#ngRepeatUl {
+    word-wrap: break-word;
+    background-color: #e0ecf2;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 7px;
+    list-style-type: none;
+}
+
+#ProfileContainer {
+    float: right;
+    width: 45%;
+}

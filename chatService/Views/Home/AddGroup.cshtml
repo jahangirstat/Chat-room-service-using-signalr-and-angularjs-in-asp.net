@@ -1,0 +1,4 @@
+﻿<div style="background-color: #a7b1e4;text-align: center;height: 450px;padding: 30px 60px;">
+    @Html.DropDownList("GroupName", ViewBag.GroupName as IEnumerable<SelectListItem>, "Select Room", new { ng_model = "GroupName" })
+    <button id="btnadd" ng-click="addtoGroup()">Request For Approval  &raquo;</button>
+</div>

@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Room Chat Service Page";
+}
+<div class="mainContentArea">
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="col-md-6">
+                <div style="background-color: #d6cecf;height: 38px;padding: 5px 10px;border-radius: 4px;text-align: center;">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        foreach (chatService.Models.UserAccess links in ViewBag.uLinks)
+                        {
+                            <button id="btnChatMenuItem">@Html.ActionLink(links.MenuItem, links.ActionName, links.ControllerName)</button>
+                        }
+                    }
+                </div>
+                <h2>Room Chat Service is Easy To Use</h2>
+                <p>
+                    Come and Read how to Use This Room Chat Service........
+                    <ul>
+                        <li> First Create Your Account</li>
+                        <li> And log in with your User Name</li>
+                        <li> Add your Chat room for approval</li>
+                        <li> If your chat room is Approved Then You Can chat your Specific Chat Room</li>
+                        <li>Lets Enjoy !!!</li>
+                    </ul>
+                </p>
+            </div>
+            <p></p>
+            <div class="col-md-6">
+                <img src="~/psd GIF-source.gif" />
+            </div>
+        </div>
+    </div>
+    <div>
+        <h2>How to Behave in Internet Chat Rooms</h2>
+        <ul>
+            <li> <strong>Know the rules.</strong>The site will most likely have a rules or frequently asked questions page, read them carefully. Many sites are very specific about what is allowed and what isn't, and you don't want to start off on the wrong foot.</li>
+            <li><strong>Cyberspace chat</strong> is a great way of connecting people with similar interests. It comes with its own etiquette, or "netiquette", which may confuse or even intimidate a novice. Here are some suggestions on how to take part in web chat without causing undue offence. This guide to Internet chat room behaviour ranges from creating a persona, clarity, grammar, web abuse, and the safety element.</li>
+            <li><strong>Create a persona.</strong> To join the site you will need to input a User name. It's not necessary for this to be your real name - use any you like. Many websites also like you to create a profile, this gives you a chance to let the other Users know a little about you - however it's not the place to enter any personal details, not even your surname. Your town is as specific as you need to be.</li>
+            <li><strong>Be clear.</strong> When you are ready to post a message keep it to the same topic and be concise. No one will read a long involved block of text. On the same note, don't waste peoples time by posting gibberish or by repeating yourself, this will make you very unpopular</li>
+        </ul>
+    </div>
+</div>
+

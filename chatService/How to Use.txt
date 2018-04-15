@@ -1,0 +1,16 @@
+﻿							
+							How to Use
+
+
+
+			For log in as Admin use the following Informations:
+			Admin: jahangir@gmail.com
+			Admin Password: Jahangir@123
+
+			Step to use :
+			1. Log in As admin (Admin: jahangir@gmail.com  Password: Jahangir@123)
+			2. First create Group as admin
+			3. Next Register as member as you want to chat.
+			4. Request a chat room you wisth to chating.
+			5. If admin approved your request you can then
+			6. Start chat

@@ -1,0 +1,364 @@
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\chatService.dll.config
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\chatService.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\chatService.pdb
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Owin.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\WebGrease.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\obj\Debug\chatService.Migrations.DbsetInitial.resources
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\obj\Debug\chatService.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\obj\Debug\chatService.dll
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\obj\Debug\chatService.pdb
+C:\Users\Admin\Desktop\New folder\liveChatService\chatService\obj\Debug\chatService.csprojResolveAssemblyReference.cache
+E:\Practice\Class_Practice\liveChatService\chatService\bin\chatService.dll.config
+E:\Practice\Class_Practice\liveChatService\chatService\bin\chatService.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\chatService.pdb
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Antlr3.Runtime.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\EntityFramework.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\EntityFramework.SqlServer.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.Google.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Web.Infrastructure.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Newtonsoft.Json.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Owin.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.Helpers.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.Mvc.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.Optimization.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.Razor.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.WebPages.Deployment.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.WebPages.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.WebPages.Razor.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\WebGrease.dll
+E:\Practice\Class_Practice\liveChatService\chatService\bin\EntityFramework.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\EntityFramework.SqlServer.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.Helpers.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.Mvc.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.Optimization.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.Razor.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.WebPages.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.WebPages.Deployment.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\System.Web.WebPages.Razor.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Antlr3.Runtime.pdb
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Newtonsoft.Json.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.Google.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Practice\Class_Practice\liveChatService\chatService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Practice\Class_Practice\liveChatService\chatService\obj\Debug\chatService.Migrations.DbsetInitial.resources
+E:\Practice\Class_Practice\liveChatService\chatService\obj\Debug\chatService.csproj.GenerateResource.Cache
+E:\Practice\Class_Practice\liveChatService\chatService\obj\Debug\chatService.dll
+E:\Practice\Class_Practice\liveChatService\chatService\obj\Debug\chatService.pdb
+E:\Practice\Class_Practice\liveChatService\chatService\obj\Debug\chatService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\chatService.dll.config
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\chatService.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\chatService.pdb
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\EntityFramework.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Owin.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\WebGrease.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\EntityFramework.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Optimization.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\obj\Debug\chatService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\obj\Debug\chatService.Migrations.DbsetInitial.resources
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\obj\Debug\chatService.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\obj\Debug\chatService.dll
+C:\Users\Admin\Documents\liveChatService\liveChatService\chatService\obj\Debug\chatService.pdb
+E:\liveChatService\liveChatService\chatService\bin\chatService.dll.config
+E:\liveChatService\liveChatService\chatService\bin\chatService.dll
+E:\liveChatService\liveChatService\chatService\bin\chatService.pdb
+E:\liveChatService\liveChatService\chatService\bin\Antlr3.Runtime.dll
+E:\liveChatService\liveChatService\chatService\bin\EntityFramework.dll
+E:\liveChatService\liveChatService\chatService\bin\EntityFramework.SqlServer.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Core.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Cookies.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Facebook.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Google.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.OAuth.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Twitter.dll
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Web.Infrastructure.dll
+E:\liveChatService\liveChatService\chatService\bin\Newtonsoft.Json.dll
+E:\liveChatService\liveChatService\chatService\bin\Owin.dll
+E:\liveChatService\liveChatService\chatService\bin\System.Web.Helpers.dll
+E:\liveChatService\liveChatService\chatService\bin\System.Web.Mvc.dll
+E:\liveChatService\liveChatService\chatService\bin\System.Web.Optimization.dll
+E:\liveChatService\liveChatService\chatService\bin\System.Web.Razor.dll
+E:\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.Deployment.dll
+E:\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.dll
+E:\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.Razor.dll
+E:\liveChatService\liveChatService\chatService\bin\WebGrease.dll
+E:\liveChatService\liveChatService\chatService\bin\EntityFramework.xml
+E:\liveChatService\liveChatService\chatService\bin\EntityFramework.SqlServer.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\liveChatService\liveChatService\chatService\bin\System.Web.Helpers.xml
+E:\liveChatService\liveChatService\chatService\bin\System.Web.Mvc.xml
+E:\liveChatService\liveChatService\chatService\bin\System.Web.Optimization.xml
+E:\liveChatService\liveChatService\chatService\bin\System.Web.Razor.xml
+E:\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.xml
+E:\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.Deployment.xml
+E:\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.Razor.xml
+E:\liveChatService\liveChatService\chatService\bin\Antlr3.Runtime.pdb
+E:\liveChatService\liveChatService\chatService\bin\Newtonsoft.Json.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Core.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Facebook.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Cookies.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.OAuth.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Google.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Twitter.xml
+E:\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\liveChatService\liveChatService\chatService\obj\Debug\chatService.Migrations.dbSetInitial.resources
+E:\liveChatService\liveChatService\chatService\obj\Debug\chatService.csproj.GenerateResource.Cache
+E:\liveChatService\liveChatService\chatService\obj\Debug\chatService.dll
+E:\liveChatService\liveChatService\chatService\obj\Debug\chatService.pdb
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\chatService.dll.config
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\chatService.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\chatService.pdb
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Antlr3.Runtime.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\EntityFramework.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Newtonsoft.Json.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Owin.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Helpers.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Mvc.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Optimization.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Razor.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\WebGrease.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\EntityFramework.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Helpers.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Mvc.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Optimization.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.Razor.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Antlr3.Runtime.pdb
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Newtonsoft.Json.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\obj\Debug\chatService.Migrations.dbInitial.resources
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\obj\Debug\chatService.csproj.GenerateResource.Cache
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\obj\Debug\chatService.dll
+C:\Users\Lab3_11\Documents\liveChatService\liveChatService\chatService\obj\Debug\chatService.pdb
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\chatService.dll.config
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\chatService.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\chatService.pdb
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Antlr3.Runtime.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\EntityFramework.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Newtonsoft.Json.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Owin.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.Helpers.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.Mvc.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.Optimization.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.Razor.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.WebPages.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\WebGrease.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\EntityFramework.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.Helpers.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.Mvc.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.Optimization.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.Razor.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.WebPages.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Antlr3.Runtime.pdb
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Newtonsoft.Json.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\obj\Debug\chatService.csprojResolveAssemblyReference.cache
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\obj\Debug\chatService.Migrations.dbInitial.resources
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\obj\Debug\chatService.csproj.GenerateResource.Cache
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\obj\Debug\chatService.dll
+C:\Users\Lab3_11\Documents\liveChatService\RoomChatService(1231209)\chatService\obj\Debug\chatService.pdb
